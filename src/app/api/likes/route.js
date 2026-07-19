@@ -19,7 +19,7 @@ export const runtime = "nodejs";
 
 function corsHeaders() {
   return {
-    "Access-Control-Allow-Origin": (process.env.CORS_ORIGIN || "*").trim(),
+    "Access-Control-Allow-Origin": "*",
     "Access-Control-Allow-Methods": "GET, POST, OPTIONS",
     "Access-Control-Allow-Headers": "Content-Type, x-api-key",
     "Access-Control-Max-Age": "86400",

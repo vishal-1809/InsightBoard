@@ -16,7 +16,7 @@ const EMAIL_RE = /^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/;
 
 function corsHeaders() {
   return {
-    "Access-Control-Allow-Origin": (process.env.CORS_ORIGIN || "*").trim(),
+    "Access-Control-Allow-Origin": "*",
     "Access-Control-Allow-Methods": "GET, POST, DELETE, OPTIONS",
     "Access-Control-Allow-Headers": "Content-Type, x-api-key, Authorization",
     "Access-Control-Max-Age": "86400",

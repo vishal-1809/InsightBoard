@@ -45,10 +45,17 @@ export async function GET(req) {
   const website = searchParams.get("website");
   const rows = await listViews({ websiteUrl: website });
 
-  return NextResponse.json(
-    { ok: true, count: rows.length, views: rows },
-    { headers: corsHeaders() }
-  );
+  if (website) {
+    return NextResponse.json(
+      { ok: true, count: rows[0]?.count || 0 },
+      { headers: corsHeaders() }
+    );
+  } else {
+    return NextResponse.json(
+      { ok: true, count: rows.length, views: rows },
+      { headers: corsHeaders() }
+    );
+  }
 }
 
 // POST — api-key only, no login required

@@ -1,0 +1,91 @@
+{
+  "likes": [
+    {
+      "id": "bb20f3fc-2f7f-4a8e-8794-f0222d0f0afe",
+      "websiteUrl": "https://vishal-builds.vercel.app",
+      "websiteName": "vishal-builds.vercel.app",
+      "likes": 184,
+      "dislikes": 6,
+      "createdAt": "2026-07-18T16:10:15.307Z",
+      "updatedAt": "2026-07-18T16:10:15.307Z"
+    },
+    {
+      "id": "14258312-a15f-4cb6-a0c2-fcf01875d977",
+      "websiteUrl": "https://devbytes-techblog.hashnode.dev",
+      "websiteName": "devbytes-techblog.hashnode.dev",
+      "likes": 421,
+      "dislikes": 19,
+      "createdAt": "2026-07-18T16:10:15.307Z",
+      "updatedAt": "2026-07-18T16:10:15.307Z"
+    },
+    {
+      "id": "696a4ff6-2d06-4039-91f2-78e94e199b6a",
+      "websiteUrl": "https://shopease-store.netlify.app",
+      "websiteName": "shopease-store.netlify.app",
+      "likes": 97,
+      "dislikes": 12,
+      "createdAt": "2026-07-18T16:10:15.307Z",
+      "updatedAt": "2026-07-18T16:10:15.307Z"
+    },
+    {
+      "id": "c738af81-b73b-44e8-b70d-7ecb37d7f6a2",
+      "websiteUrl": "https://testsite-smoke.vercel.app",
+      "websiteName": "testsite-smoke.vercel.app",
+      "likes": 1,
+      "dislikes": 1,
+      "createdAt": "2026-07-18T16:10:15.309Z",
+      "updatedAt": "2026-07-18T16:10:15.323Z"
+    },
+    {
+      "id": "9f6ebd63-bd0e-437f-9e4d-34dc44fd9083",
+      "websiteUrl": "https://likes-only-example.com",
+      "websiteName": "likes-only-example.com",
+      "likes": 1,
+      "dislikes": 1,
+      "createdAt": "2026-07-18T16:43:10.063Z",
+      "updatedAt": "2026-07-18T16:43:10.076Z"
+    }
+  ],
+  "views": [
+    {
+      "id": "ee00168c-0cf3-4172-b4d8-5c197136f0eb",
+      "websiteUrl": "https://vishal-builds.vercel.app",
+      "websiteName": "vishal-builds.vercel.app",
+      "count": 5230,
+      "lastViewedAt": "2026-07-18T16:10:15.307Z",
+      "createdAt": "2026-07-18T16:10:15.307Z"
+    },
+    {
+      "id": "3346b2a4-f3a4-4a0e-afac-7acb616d864d",
+      "websiteUrl": "https://devbytes-techblog.hashnode.dev",
+      "websiteName": "devbytes-techblog.hashnode.dev",
+      "count": 12884,
+      "lastViewedAt": "2026-07-18T16:10:15.307Z",
+      "createdAt": "2026-07-18T16:10:15.307Z"
+    },
+    {
+      "id": "2b7c02d2-73b9-45fe-a328-7c4cf2eb6cbf",
+      "websiteUrl": "https://shopease-store.netlify.app",
+      "websiteName": "shopease-store.netlify.app",
+      "count": 3176,
+      "lastViewedAt": "2026-07-18T16:10:15.307Z",
+      "createdAt": "2026-07-18T16:10:15.307Z"
+    },
+    {
+      "id": "532016dc-701c-452c-9056-d13a1a7822c4",
+      "websiteUrl": "https://testsite-smoke.vercel.app",
+      "websiteName": "testsite-smoke.vercel.app",
+      "count": 1,
+      "lastViewedAt": "2026-07-18T16:10:15.337Z",
+      "createdAt": "2026-07-18T16:10:15.337Z"
+    },
+    {
+      "id": "6cb2f153-e6b8-4a8c-9020-7c7a191c55b2",
+      "websiteUrl": "https://views-only-example.com",
+      "websiteName": "views-only-example.com",
+      "count": 1,
+      "lastViewedAt": "2026-07-18T16:43:10.045Z",
+      "createdAt": "2026-07-18T16:43:10.045Z"
+    }
+  ]
+}

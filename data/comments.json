@@ -1,0 +1,68 @@
+[
+  {
+    "id": "d29e34c2-3319-41b3-b8f0-ded5c0e4ec71",
+    "name": "Aarav Mehta",
+    "email": "aarav.mehta@gmail.com",
+    "message": "Hey Vishal! Just went through your portfolio — the project case studies are really well written. Would love to collaborate on a Next.js project sometime.",
+    "websiteUrl": "https://vishal-builds.vercel.app",
+    "websiteName": "vishal-builds.vercel.app",
+    "ip": "103.21.44.18",
+    "userAgent": "Chrome/126 (Windows)",
+    "createdAt": "2026-07-17T14:42:51.864Z"
+  },
+  {
+    "id": "76a259dd-7db3-45a6-b0a8-cfafefb682ad",
+    "name": "Sofia Bennett",
+    "email": "sofia.bennett@outlook.com",
+    "message": "The dark mode toggle on the homepage is such a nice touch. One suggestion — the contact form could remember my details between visits.",
+    "websiteUrl": "https://vishal-builds.vercel.app",
+    "websiteName": "vishal-builds.vercel.app",
+    "ip": "72.229.10.6",
+    "userAgent": "Safari/17.5 (macOS)",
+    "createdAt": "2026-07-16T14:42:51.864Z"
+  },
+  {
+    "id": "37d1b1a8-58ef-4a54-943e-76870b34e4bf",
+    "name": "Rohan Khanna",
+    "email": "rohan.k94@gmail.com",
+    "message": "Great write-up on server components. Could you do a follow-up article about streaming SSR with Suspense boundaries?",
+    "websiteUrl": "https://devbytes-techblog.hashnode.dev",
+    "websiteName": "devbytes-techblog.hashnode.dev",
+    "ip": "49.207.180.42",
+    "userAgent": "Firefox/127 (Linux)",
+    "createdAt": "2026-07-17T11:42:51.864Z"
+  },
+  {
+    "id": "bff6142b-3c5a-434e-8a6f-d3bd7741f11f",
+    "name": "Priya Nair",
+    "email": "priya.nair@yahoo.in",
+    "message": "Your article on MongoDB indexing saved me hours of debugging. The explain() examples were gold. Subscribed!",
+    "websiteUrl": "https://devbytes-techblog.hashnode.dev",
+    "websiteName": "devbytes-techblog.hashnode.dev",
+    "ip": "117.96.33.201",
+    "userAgent": "Chrome/126 (Android)",
+    "createdAt": "2026-07-15T16:42:51.864Z"
+  },
+  {
+    "id": "fa6733e0-3779-4726-a260-7af2c92145ce",
+    "name": "Daniel Carter",
+    "email": "dan.carter@proton.me",
+    "message": "Ordered the mechanical keyboard from your store last week — checkout was smooth. Any plans to add international shipping?",
+    "websiteUrl": "https://shopease-store.netlify.app",
+    "websiteName": "shopease-store.netlify.app",
+    "ip": "84.17.55.90",
+    "userAgent": "Chrome/126 (macOS)",
+    "createdAt": "2026-07-10T16:42:51.864Z"
+  },
+  {
+    "id": "7942afe9-fc3c-4038-b258-0466a91a97e1",
+    "name": "Ananya Iyer",
+    "email": "ananya.iyer.work@gmail.com",
+    "message": "The size guide on product pages is super helpful. Would be great if reviews had photo uploads too!",
+    "websiteUrl": "https://shopease-store.netlify.app",
+    "websiteName": "shopease-store.netlify.app",
+    "ip": "182.68.14.77",
+    "userAgent": "Safari/17.4 (iOS)",
+    "createdAt": "2026-06-17T16:42:51.864Z"
+  }
+]

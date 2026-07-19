@@ -491,7 +491,7 @@ function serializeView(doc) {
 export async function recordLike(input) {
   const db = await getDb();
   const websiteName = (input.websiteName || "").trim() || deriveWebsiteName(input.websiteUrl);
-  const amount = Math.max(1, Number(input.amount) || 1);
+  const amount = Math.max(-1, Number(input.amount) || 1);
   const field = input.type === "dislike" ? "dislikes" : "likes";
 
   if (db) {

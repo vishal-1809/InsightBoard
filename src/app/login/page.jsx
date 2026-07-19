@@ -36,7 +36,7 @@ export default function LoginPage() {
           "Content-Type": "application/json",
           // Login API is protected by the shared x-api-key as well.
           // The key is intentionally not shown anywhere in the UI.
-          "x-api-key": "YOUR_API_SEC_KEY",
+          "x-api-key": process.env.NEXT_PUBLIC_API_SEC_KEY || "",
         },
         body: JSON.stringify({ username, password }),
       });
